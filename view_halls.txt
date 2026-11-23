@@ -1,0 +1,4 @@
+Hall ID: 102, Hall Type: metting room, Booking Rate: 200RM, Capacity: 20
+Hall ID: 103, Hall Type: metting room, Booking Rate: 200RM, Capacity: 20
+Hall ID: 104, Hall Type: metting room, Booking Rate: 200RM, Capacity: 20
+Hall ID: 101, Hall Type: metting room, Booking Rate: 200RM, Capacity: 20
